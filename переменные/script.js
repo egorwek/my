@@ -1,0 +1,11 @@
+let name = "Egor";
+let age = "14";
+let isStudent = true;
+console.log(name, age, isStudent);
+let city = "Bender";
+city = "Russia";
+console.log(city);
+const a = 5;
+const b = 7;
+let sum = a + b;
+console.log(sum);
